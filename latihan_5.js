@@ -1,5 +1,5 @@
 //Rest Parameter
-//Berguna untuk menggabungkan semua parameter pada function ke dalam array.
+//Fungsi ini Berguna untuk menggabungkan semua parameter pada function ke dalam array.
 const sum = (...sydney) => {
     let result = 0
     sydney.filter(el => result = result + el)
