@@ -22,7 +22,7 @@ function helloWorld() {
   // };
   // ambilDataUser();
   
-  // //Async Await no.3
+  // //Async Await Nomor.3
   // const ambilDataUserAsync = async () => {
   //   try {
   //     const response = await fetch("https://reqres.in/api/users");
@@ -36,7 +36,7 @@ function helloWorld() {
   // };
   // ambilDataUserAsync();
   
-  //Axios no.4
+  //Axios Nomor.4
   const axios = require("axios");
   const ambilDataUserAxios = async () => {
     try {
