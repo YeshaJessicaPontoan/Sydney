@@ -1,4 +1,4 @@
-//Asyncronous no.1
+//Asyncronous Nomor.1
 function helloWorld() {
     return new Promise((resolve) => {
       setTimeout(() => {
@@ -13,7 +13,7 @@ function helloWorld() {
   };
   messages();
   
-  // //Fetch no.2
+  // //Fetch Nomor.2
   // const ambilDataUser = () => {
   //   fetch("https://reqres.in/api/users")
   //     .then((response) => response.json())
