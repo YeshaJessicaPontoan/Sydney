@@ -5,10 +5,10 @@ const sum = (...sydney) => {
     sydney.filter(el => result = result + el)
     return result
 }
-    console.log(sum(1, 2, 3))
+console.log(sum(1, 2, 3))
 
-    //return 5
-    //menggabungkan semua parameter pada function ke dalam array.
+//return 5
+//menggabungkan semua parameter pada function ke dalam array.
 
 //spread operator
 //Digunakan untuk membagi operator elemen array atau properti pada objek, sehingga elemen array dapat di tambahkan/dimasukan ke dalam array baru.
